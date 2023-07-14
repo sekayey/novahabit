@@ -1,2 +1,1 @@
-# novahabit
-project software engineering RevoU
+# NovaHabit
